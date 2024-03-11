@@ -1,0 +1,32 @@
+#frame {
+    background-color:hsl(27, 40%, 65%);
+    border: 5px solid;
+    padding: 65px 100px 100px 100px;
+    border-radius: 25px;
+    text-align: center;
+    max-width:max-content;
+    margin-top:25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+body {
+    background-color:hsl(19, 77%, 62%);
+}
+.choice_buttons {
+    line-height: 30px;
+    width: 150px;
+    font-family:cursive;
+    font-size: large;
+}
+#player_text {
+    color: blue;
+    font-family:cursive;
+}
+#computer_text {
+    color: red;
+    font-family:cursive;
+}
+#result_text {
+    font-family:cursive;
+}
